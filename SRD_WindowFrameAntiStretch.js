@@ -20,20 +20,22 @@
  * That's it. Just plug it in and go!
  *
  * ============================================================================
+ *  Terms of Use
+ * ============================================================================
+ *
+ * http://sumrndm.site/terms-of-use/
+ *
+ * ============================================================================
  *  End of Help File
  * ============================================================================
  *
- * Normally I would welcome you to the end of the HELP section... but it's 
- * not like there was much content in here to begin with. Oh well.
- * Check out my links:
- * Follow on twitter especially. ;p
- *
- * https://www.youtube.com/SumRndmDde
- * https://www.twitter.com/SumRndmDde
+ * https://www.youtube.com/@SumRndmDde (good content)
+ * https://twitch.tv/SomeRanDev (livestreams maybe)
+ * https://bsky.app/profile/someran.dev (active gamedev posts maybe)
  * http://sumrndm.site
  *
  * Until next time,
- *   ~ SRDude
+ *   ~ SomeRanDev
  */
 
 var SRD = SRD || {};
